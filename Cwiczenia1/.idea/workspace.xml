@@ -84,6 +84,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RecentsManager">
@@ -120,6 +122,10 @@
       <option name="presentableId" value="Default" />
       <updated>1647547267352</updated>
       <workItem from="1647547278663" duration="2351000" />
+      <workItem from="1647981168457" duration="406000" />
+      <workItem from="1647981615442" duration="328000" />
+      <workItem from="1648386377926" duration="175000" />
+      <workItem from="1649528436544" duration="18000" />
     </task>
     <servers />
   </component>
